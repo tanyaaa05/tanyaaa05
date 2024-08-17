@@ -10,7 +10,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanyaaa05&label=Profile%20views&color=0e75b6&style=flat" alt="tanyaaa05" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development and Data Structures & Algorithms (DSA)**
+- 🌱 I’m currently learning: **Full Stack Development 🌐💻
+Data Structures & Algorithms (DSA) 📊🔍**
 
 - 💬 Ask me about: **💻 Front-End Development, 📊 Data Structures and Algorithms (DSA), 📚 Object-Oriented Programming (OOP), 🌐 Responsive Design and 🚀 Project Development**
 
