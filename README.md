@@ -22,7 +22,7 @@ Data Structures & Algorithms (DSA) 📊🔍**
 -  [ ] ⚡ Fun fact: **I am funny 😅**
 
 
-</br>
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +32,7 @@ Data Structures & Algorithms (DSA) 📊🔍**
 <a href="https://auth.geeksforgeeks.org/user/tanyaaa005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanyaaa005" height="30" width="40" /></a> 
 </p>
 
-</br>
+<br/>
 
 # 💻 Tech Stack
 
@@ -44,7 +44,6 @@ Data Structures & Algorithms (DSA) 📊🔍**
 # <p align="center">📊 GitHub Stats</p>
 
 <br/>
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanyaaa05&show_icons=true&locale=en&layout=compact" alt="tanyaaa05" /></p>
