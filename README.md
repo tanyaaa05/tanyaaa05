@@ -38,7 +38,7 @@ Data Structures & Algorithms (DSA) 📊🔍**
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanyaaa05&" alt="tanyaaa05" /></p>
 
 
-<img src="https://raw.githubusercontent.com/shivalalprasad/shivalalprasad/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/tanyaa05/tanyaa05/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 
 
