@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tanya Singh</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
