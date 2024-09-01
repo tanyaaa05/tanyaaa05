@@ -14,7 +14,7 @@ Data Structures & Algorithms (DSA) 📊🔍**
 
 -  [ ] 👨‍💻 All of my projects are available at [Portfolio](https://vercel.com/tanya-singhs-projects-247951ce)
 
--  [ ] 📫  How to reach me: ***
+-  [ ] 📫  How to reach me: **taniyasinghsaini@gmail.com**
 
 -  [ ] 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eO6eSPAH8UB9a03onf2B5mzCJcR1OqUP/view?usp=sharing)
 
