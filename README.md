@@ -16,7 +16,7 @@ Data Structures & Algorithms (DSA) 📊🔍**
 
 -  [ ] 📫  How to reach me: **taniyasinghsaini@gmail.com**
 
--  [ ] 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KDW-XNX4VSzFQzL55gP7wNtBuSp8pBFC/view?usp=drive_link)
+-  [ ] 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1pm1fHrG40Fn98I92FEvOF_8iwgLvivRp?usp=sharing)
 
 
 -  [ ] ⚡ Fun fact: **I am funny 😅**
