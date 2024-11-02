@@ -1,5 +1,7 @@
 
-<center><h3 align="right"><img align="center"  src="https://readme-typing-svg.herokuapp.com/?font=Edu+VIC+WA+NT+Beginner&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Tanya Singh!;A+Passionate;Software+developer;from+India" /></h3></center>
+<h3 align="center">
+  <img align="center" src=".github/workflows/me.svg" />
+</h3>
 <hr/>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
@@ -44,7 +46,7 @@ Data Structures & Algorithms (DSA) 📊🔍**
 # <p align="center">📊 GitHub Stats</p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanyaaa05&show_icons=true&locale=en&layout=compact" alt="tanyaaa05" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanyaaa05&show_icons=true&locale=en" alt="tanyaaa05" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanyaaa05&" alt="tanyaaa05" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanyaaa05&" alt="tanyaaa05" /></p><hr/>
 <img src="https://raw.githubusercontent.com/tanyaaa05/tanyaaa05/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 
