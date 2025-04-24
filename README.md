@@ -13,7 +13,7 @@ Data Structures & Algorithms (DSA) 📊🔍**
 
 -  [ ] 💬 Ask me about: **💻 Front-End Development, 📊 Data Structures and Algorithms (DSA), 📚 Object-Oriented Programming (OOP), 🌐 Responsive Design and 🚀 Project Development**
 
--  [ ] 👨‍💻 All of my projects are available at [Portfolio](https://tanya-resume-web-page-two.vercel.app/)
+-  [ ] 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-tanya-singh-projects.vercel.app/)
 
 -  [ ] 📫  How to reach me: **taniyasinghsaini@gmail.com**
 
